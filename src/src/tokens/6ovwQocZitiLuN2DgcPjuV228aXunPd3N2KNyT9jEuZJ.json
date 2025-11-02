@@ -1,1 +1,15 @@
+{
+  "chainId": 101,
+  "address": "6ovwQocZitiLuN2DgcPjuV228aXunPd3N2KNyT9jEuZJ",
+  "symbol": "OBGT",
+  "name": "Oberit Token (Genesis Edition)",
+  "decimals": 6,
+  "logoURI": "https://i.imgur.com/KT8PNjU.png",
+  "tags": ["utility-token", "wellness", "recovery", "rewards", "healthtech"],
+  "extensions": {
+    "website": "https://www.getoberit.com",
+    "x": "https://x.com/oberitapp",
+    "description": "OBGT powers the Oberit ecosystem—rewarding wellness, recovery, and positive action. This Genesis Edition is allocated to early investors, advisors, supporters, and strategic partners."
+  }
+}
 
